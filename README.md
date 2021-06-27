@@ -1,7 +1,6 @@
 ## Hi I'm Cobby <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Olá sou um novo desenvolvedor front end apaixonado pelas tecnologia do front e busco aprimorar
-ainda mais meus conhecimentos!
+Hi, I'm Guilherme Cobby, the passionate FrontEnd developer and  Graphic designer.
 
 :smile: Reach me out!
 
